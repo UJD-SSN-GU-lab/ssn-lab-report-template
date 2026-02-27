@@ -77,3 +77,13 @@ Git console
 3. Odśwież stronę repo (F5) i spróbuj wejść ponownie.
 
 Jeśli dalej nie działa: zrób zrzut ekranu komunikatu i wyślij prowadzącej.
+
+### Zasada nr 1
+Pracuj tylko na plikach w folderze repozytorium sklonowanego przez GitHub Desktop  
+(**Repository → Show in Explorer**). Pliki z “Pobranych” nie są częścią repo i nie wyślą się na GitHuba.
+
+### Jak oddać (GitHub Desktop)
+1) **Show in Explorer** → otwórz `report.ipynb` z folderu repo  
+2) Zapisz zmiany (Ctrl+S)  
+3) W GitHub Desktop wpisz **Summary** → **Commit to main**  
+4) **Push origin**
