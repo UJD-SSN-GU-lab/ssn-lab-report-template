@@ -67,3 +67,13 @@ Git console
 2. Otwórz zakładkę **Commits** i sprawdź, czy widać Twój ostatni commit (z Twoim opisem i datą).
 3. Kliknij plik `report.ipynb` i upewnij się, że zawiera Twoje zmiany.
 4. Jeśli ostatni commit jest widoczny, a plik ma Twoje poprawki — wszystko jest zapisane poprawnie ✅
+
+---
+
+## Jeśli widzisz „Repository Access Issue” (naprawa)
+
+1. Wróć do linku z Moodle (GitHub Classroom) i jeszcze raz kliknij **Accept assignment** / **Go to your repository**.
+2. Jeśli pojawi się ekran z prośbą o dostęp/zaproszenie — kliknij **Accept**.
+3. Odśwież stronę repo (F5) i spróbuj wejść ponownie.
+
+Jeśli dalej nie działa: zrób zrzut ekranu komunikatu i wyślij prowadzącej.
